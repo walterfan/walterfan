@@ -6,6 +6,13 @@ I'm currently living in beautiful Hefei(霸都), China.
 
 I love contributing to the community with [blog posts](https://www.fanyamin.com/), [简书](https://www.jianshu.com/u/e0b365801f48) and [books](http://www.cmpbook.com/products/detail?id=46463). 
 
+## ⚡ Personal Projects
+
+* [WebRTC Primer](https://github.com/walterfan/webrtc_primer): WebRTC sampels and tutorial
+* [Metrics Driven Development](https://github.com/walterfan/mdd): Samples for my MDD book
+* [Web Diagram](https://github.com/walterfan/webdiagram): A Web App that can draw UML, Mindmap and flow chart on web
+* [Regex Helper](https://github.com/walterfan/regex_helper): A Java Swing App as a Regular Expression helper
+* [Encoding Helper](https://github.com/walterfan/encoding_helper): A Java Swing App as an Encoding conversion and random generation tool
 
 ## ⚡ Technologies
 

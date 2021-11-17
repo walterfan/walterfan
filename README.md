@@ -2,7 +2,7 @@
 
 I'm Walter Fan , a programmer who love to write code and poem, and I've been working in tech since 2002. 
 
-I'm a technical leader at Cisco, and currently living in beautiful Hefei(霸都), China.
+I'm a technical leader at Cisco currently, living in beautiful Hefei(霸都), China.
 
 I love contributing to the community with [blog posts](https://www.fanyamin.com/), [简书](https://www.jianshu.com/u/e0b365801f48) and [books](http://www.cmpbook.com/products/detail?id=46463). 
 

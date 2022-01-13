@@ -9,6 +9,8 @@ I love contributing to the community with [blog posts](https://www.fanyamin.com/
 ## ⚡ Personal Projects
 
 * [WebRTC Primer](https://github.com/walterfan/webrtc_primer): WebRTC sampels and tutorial
+* [WebRTC Notes](https://github.com/walterfan/webrtc_note): WebRTC notes
+* [WebRTC Snippets](https://github.com/walterfan/webrtc_snippets): WebRTC related snippets
 * [Metrics Driven Development](https://github.com/walterfan/mdd): Samples for my MDD book
 * [Web Diagram](https://github.com/walterfan/webdiagram): A Web App that can draw UML, Mindmap and flow chart on web
 * [Regex Helper](https://github.com/walterfan/regex_helper): A Java Swing App as a Regular Expression helper

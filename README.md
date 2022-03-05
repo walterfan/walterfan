@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Walter Fan , a Metrics Driven Developer who loves writing code and poem, likes researching design patterns and real-time communication.
+I'm Walter Fan , a full stack engineer who loves writing code and poem, enjoys researching MDD, design patterns and real-time communication.
 
 I'm writing something on [blog posts](https://www.fanyamin.com/), [简书](https://www.jianshu.com/u/e0b365801f48)
 

@@ -9,16 +9,20 @@ MDD](http://www.cmpbook.com/products/detail?id=46463).
 
 ## ⚡ Personal Projects
 
+* [Metrics Driven Development](https://github.com/walterfan/mdd): Samples for my "Metrics Driven Development" book
+* [Web Diagram](https://github.com/walterfan/webdiagram): A Web App for generating UML, Mindmap and flow chart based on flask, graphviz and plantuml
+
 * [WebRTC Primer](https://github.com/walterfan/webrtc_primer): WebRTC sampels and tutorial
 * [WebRTC Notes](https://github.com/walterfan/webrtc_note): WebRTC notes
 * [WebRTC Snippets](https://github.com/walterfan/webrtc_snippets): WebRTC related snippets
 * [WebRTC Reference](https://github.com/walterfan/webrtc_refer): WebRTC related reference
 * [WebRTC Remote Sharing](https://github.com/walterfan/webrtc_remote_sharing): An example of remote sharing
-* [Metrics Driven Development](https://github.com/walterfan/mdd): Samples for my MDD book
-* [Web Diagram](https://github.com/walterfan/webdiagram): A Web App that can draw UML, Mindmap and flow chart on web
+ 
 * [Regex Helper](https://github.com/walterfan/regex_helper): A Java Swing App as a Regular Expression helper
 * [Encoding Helper](https://github.com/walterfan/encoding_helper): A Java Swing App as an Encoding conversion and random generation tool
+
 * [gtest2html](https://github.com/walterfan/gtest2html): A Python Script to covert google test xml report to markdown or html
+* 
 * [beautiful_pattern](https://github.com/walterfan/beautiful_pattern): beautiful Patterns as I know (TBD)
 * [beautiful_python](https://github.com/walterfan/beautiful_python): beautiful Python code as I know (TBD)
 * [beautiful_cpp](https://github.com/walterfan/beautiful_cpp): beautiful C++ code as I know -- building (TBD)

@@ -16,7 +16,7 @@ MDD](http://www.cmpbook.com/products/detail?id=46463).
 * [WebRTC Notes](https://github.com/walterfan/webrtc_note): WebRTC notes
 * [WebRTC Snippets](https://github.com/walterfan/webrtc_snippets): WebRTC related snippets
 * [WebRTC Reference](https://github.com/walterfan/webrtc_refer): WebRTC related reference
-* [WebRTC Remote Sharing](https://github.com/walterfan/webrtc_video_chat): An example of video chat based on WebRTC
+* [WebRTC Video Chat](https://github.com/walterfan/webrtc_video_chat): An example of video chat based on WebRTC
 * [WebRTC Remote Sharing](https://github.com/walterfan/webrtc_remote_sharing): An example of remote sharing
 
 * [gtest2html](https://github.com/walterfan/gtest2html): A Python Script to covert google test xml report to markdown or html

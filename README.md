@@ -4,8 +4,7 @@ I'm Walter Fan , a full stack engineer who loves writing code and poem, enjoys r
 
 I'm writing something on [blog posts](https://www.fanyamin.com/) and [简书](https://www.jianshu.com/u/e0b365801f48)
 
-Also wrote a book of MDD(Metrics Driven Development) for Micro Service
-MDD](http://www.cmpbook.com/products/detail?id=46463). 
+Also wrote a book of MDD - [Metrics Driven Development for Micro Service](http://www.cmpbook.com/products/detail?id=46463). 
 
 ## ⚡ Personal Projects
 

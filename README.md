@@ -17,14 +17,13 @@ Also wrote a book of MDD - [Metrics Driven Development for Micro Service](http:/
 * [WebRTC Reference](https://github.com/walterfan/webrtc_refer): WebRTC related reference
 * [WebRTC Video Chat](https://github.com/walterfan/webrtc_video_chat): An example of video chat based on WebRTC
 * [WebRTC Remote Sharing](https://github.com/walterfan/webrtc_remote_sharing): An example of remote sharing
-
+* [WebRTC Stats Tool](https://github.com/walterfan/webrtc_stats): A Web App to parse WebRTC internals dump file of Chrome
 * [gtest2html](https://github.com/walterfan/gtest2html): A Python Script to covert google test xml report to markdown or html
 * [Regex Helper](https://github.com/walterfan/regex_helper): A Java Swing App as a Regular Expression helper
 * [Encoding Helper](https://github.com/walterfan/encoding_helper): A Java Swing App as an Encoding conversion and random generation tool
 * [Tomato Timer](https://github.com/walterfan/tomato-timer): A simple Tomato Timer by Python
-* [beautiful_pattern](https://github.com/walterfan/beautiful_pattern): beautiful Patterns as I know (TBD)
-* [beautiful_python](https://github.com/walterfan/beautiful_python): beautiful Python code as I know (TBD)
-* [beautiful_cpp](https://github.com/walterfan/beautiful_cpp): beautiful C++ code as I know -- building (TBD)
+* [OCR Web App](https://github.com/walterfan/webocr): A Web App to recognize the text on uploaded picture based on libtesseract
+
 * ...
 
 ## ⚡ Technologies

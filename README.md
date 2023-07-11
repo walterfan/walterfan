@@ -24,7 +24,7 @@ Also wrote a book of MDD - [Metrics Driven Development for Micro Service](http:/
 * [Tomato Timer](https://github.com/walterfan/tomato-timer): A simple Tomato Timer by Python
 * [OCR Web App](https://github.com/walterfan/webocr): A Web App to recognize the text on uploaded picture based on libtesseract
 
-* ...
+* [more...](https://github.com/walterfan?tab=repositories)
 
 ## ⚡ Technologies
 

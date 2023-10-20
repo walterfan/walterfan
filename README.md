@@ -10,7 +10,7 @@ Also wrote a book of MDD - [Metrics Driven Development for Micro Service](http:/
 
 * [Metrics Driven Development](https://github.com/walterfan/mdd): Samples for my "Metrics Driven Development" book
 * [Web Diagram](https://github.com/walterfan/webdiagram): A Web App for generating UML, Mindmap and flow chart based on flask, graphviz and plantuml
-
+* [The Tao of Agile](https://github.com/walterfan/the-tao-of-agile): 敏捷之道
 * [WebRTC Primer](https://github.com/walterfan/webrtc_primer): WebRTC sampels and tutorial
 * [WebRTC Notes](https://github.com/walterfan/webrtc_note): WebRTC notes
 * [WebRTC Snippets](https://github.com/walterfan/webrtc_snippets): WebRTC related snippets

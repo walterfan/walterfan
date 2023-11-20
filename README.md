@@ -13,6 +13,7 @@ Also wrote a book of MDD - [Metrics Driven Development for Micro Service](http:/
 * [The Tao of Agile](https://github.com/walterfan/the-tao-of-agile): 敏捷之道
 * [WebRTC Primer](https://github.com/walterfan/webrtc_primer): WebRTC sampels and tutorial
 * [WebRTC Notes](https://github.com/walterfan/webrtc_note): WebRTC notes
+* [GStreamer cookbook](https://github.com/walterfan/gstreamer-cookbook): GStreamer notes
 * [WebRTC Snippets](https://github.com/walterfan/webrtc_snippets): WebRTC related snippets
 * [WebRTC Reference](https://github.com/walterfan/webrtc_refer): WebRTC related reference
 * [WebRTC Video Chat](https://github.com/walterfan/webrtc_video_chat): An example of video chat based on WebRTC

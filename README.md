@@ -15,6 +15,7 @@ Also wrote a book of MDD - [Metrics Driven Development for Micro Service](http:/
 * [WebRTC Notes](https://github.com/walterfan/webrtc_note): WebRTC notes
 * [DevOps cookbook](https://github.com/walterfan/devops-cookbook): DevOps cookbook
 * [GStreamer cookbook](https://github.com/walterfan/gstreamer-cookbook): GStreamer cookbook
+* [GStreamer pipeline verify tool](https://github.com/walterfan/gst-pipeline-verifier): GStreamer Pipeline Verify Tool
 * [WebRTC Snippets](https://github.com/walterfan/webrtc_snippets): WebRTC related snippets
 * [WebRTC Reference](https://github.com/walterfan/webrtc_refer): WebRTC related reference
 * [WebRTC Video Chat](https://github.com/walterfan/webrtc_video_chat): An example of video chat based on WebRTC

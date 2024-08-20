@@ -8,26 +8,29 @@ Also wrote a book of MDD - [Metrics Driven Development for Micro Service](http:/
 
 ## ⚡ Personal Projects
 
-* [Metrics Driven Development](https://github.com/walterfan/mdd): Samples for my "Metrics Driven Development" book
-* [Web Diagram](https://github.com/walterfan/webdiagram): A Web App for generating UML, Mindmap and flow chart based on flask, graphviz and plantuml
-* [The Tao of Agile](https://github.com/walterfan/the-tao-of-agile): 敏捷之道
-* [WebRTC Primer](https://github.com/walterfan/webrtc_primer): WebRTC sampels and tutorial
-* [WebRTC Notes](https://github.com/walterfan/webrtc_note): WebRTC notes
-* [DevOps cookbook](https://github.com/walterfan/devops-cookbook): DevOps cookbook
-* [GStreamer cookbook](https://github.com/walterfan/gstreamer-cookbook): GStreamer cookbook
-* [GStreamer pipeline verify tool](https://github.com/walterfan/gst-pipeline-verifier): GStreamer Pipeline Verify Tool
-* [WebRTC Snippets](https://github.com/walterfan/webrtc_snippets): WebRTC related snippets
-* [WebRTC Reference](https://github.com/walterfan/webrtc_refer): WebRTC related reference
-* [WebRTC Video Chat](https://github.com/walterfan/webrtc_video_chat): An example of video chat based on WebRTC
-* [WebRTC Remote Sharing](https://github.com/walterfan/webrtc_remote_sharing): An example of remote sharing
-* [WebRTC Stats Tool](https://github.com/walterfan/webrtc_stats): A Web App to parse WebRTC internals dump file of Chrome
-* [gtest2html](https://github.com/walterfan/gtest2html): A Python Script to covert google test xml report to markdown or html
-* [Regex Helper](https://github.com/walterfan/regex_helper): A Java Swing App as a Regular Expression helper
-* [Encoding Helper](https://github.com/walterfan/encoding_helper): A Java Swing App as an Encoding conversion and random generation tool
-* [Tomato Timer](https://github.com/walterfan/tomato-timer): A simple Tomato Timer by Python
-* [OCR Web App](https://github.com/walterfan/webocr): A Web App to recognize the text on uploaded picture based on libtesseract
-* [Code Kata](https://github.com/walterfan/code-kata):  kata(功夫套路) of code - cpp, java, python, js, etc.
-* [Unforgettable Cheat Sheet](https://github.com/walterfan/unforgettable_cheat_sheet): Unforgettable Cheat Sheets of Bash, Python, Golang, Ansible, Flask, etc.
+1. [Metrics Driven Development](https://github.com/walterfan/mdd): Samples for my "Metrics Driven Development" book
+1. [Web Diagram](https://github.com/walterfan/webdiagram): A Web App for generating UML, Mindmap and flow chart based on flask, graphviz and plantuml
+1. [The Tao of Agile](https://github.com/walterfan/the-tao-of-agile): 敏捷之道
+1. [WebRTC Primer](https://github.com/walterfan/webrtc_primer): WebRTC sampels and tutorial
+1. [WebRTC Notes](https://github.com/walterfan/webrtc_note): WebRTC notes
+1. [DevOps cookbook](https://github.com/walterfan/devops-cookbook): DevOps cookbook
+1. [GStreamer cookbook](https://github.com/walterfan/gstreamer-cookbook): GStreamer cookbook
+1. [GStreamer pipeline verify tool](https://github.com/walterfan/gst-pipeline-verifier): GStreamer Pipeline Verify Tool
+1. [WebRTC Snippets](https://github.com/walterfan/webrtc_snippets): WebRTC related snippets
+1. [WebRTC Reference](https://github.com/walterfan/webrtc_refer): WebRTC related reference
+1. [WebRTC Video Chat](https://github.com/walterfan/webrtc_video_chat): An example of video chat based on WebRTC
+1. [WebRTC Remote Sharing](https://github.com/walterfan/webrtc_remote_sharing): An example of remote sharing
+1. [WebRTC Stats Tool](https://github.com/walterfan/webrtc_stats): A Web App to parse WebRTC internals dump file of Chrome
+1. [gtest2html](https://github.com/walterfan/gtest2html): A Python Script to covert google test xml report to markdown or html
+1. [Beautiful Pattern](https://github.com/walterfan/beautiful_pattern): Beautiful Patterns 
+1. [Beautiful Python](https://github.com/walterfan/beautiful_python): Beautiful Python code snippets 
+1. [Beautiful C++](https://github.com/walterfan/beautiful_cpp): Beautiful C++ code snippets 
+1. [Regex Helper](https://github.com/walterfan/regex_helper): A Java Swing App as a Regular Expression helper
+1. [Encoding Helper](https://github.com/walterfan/encoding_helper): A Java Swing App as an Encoding conversion and random generation tool
+1. [Tomato Timer](https://github.com/walterfan/tomato-timer): A simple Tomato Timer by Python
+1. [OCR Web App](https://github.com/walterfan/webocr): A Web App to recognize the text on uploaded picture based on libtesseract
+1. [Code Kata](https://github.com/walterfan/code-kata):  kata(功夫套路) of code - cpp, java, python, js, etc.
+1. [Unforgettable Cheat Sheet](https://github.com/walterfan/unforgettable_cheat_sheet): Unforgettable Cheat Sheets of Bash, Python, Golang, Ansible, Flask, etc.
 * [more...](https://github.com/walterfan?tab=repositories)
 
 ## ⚡ Technologies

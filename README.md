@@ -26,7 +26,7 @@ Also wrote a book of MDD - [Metrics Driven Development for Micro Service](http:/
 * [Encoding Helper](https://github.com/walterfan/encoding_helper): A Java Swing App as an Encoding conversion and random generation tool
 * [Tomato Timer](https://github.com/walterfan/tomato-timer): A simple Tomato Timer by Python
 * [OCR Web App](https://github.com/walterfan/webocr): A Web App to recognize the text on uploaded picture based on libtesseract
-* [Code Kata](https://github.com/walterfan/code-kata): Some kata(功夫套路) of code - cpp, java, python, js, etc.
+* [Code Kata](https://github.com/walterfan/code-kata):  kata(功夫套路) of code - cpp, java, python, js, etc.
 * [more...](https://github.com/walterfan?tab=repositories)
 
 ## ⚡ Technologies

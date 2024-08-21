@@ -42,11 +42,11 @@ Also wrote a book of MDD - [Metrics Driven Development for Micro Service](http:/
 
 These are some of the technologies and tools that I work with:
 
-![Cpp](https://img.shields.io/badge/-Cpp-007ACC?style=flat-square&logo=cpp)
+![C++](https://img.shields.io/badge/-Cpp-007ACC?style=flat-square&logo=cpp)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/Python-0089D6?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-339933?style=flat-square&logo=JavaScript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![MicroService](https://img.shields.io/badge/-MicroService-E34F26?style=flat-square&logo=MicroService&logoColor=white)
 ![Telephony](https://img.shields.io/badge/-Telephony-black?style=flat-square&logo=Telephony)
 ![WebRTC](https://img.shields.io/badge/-WebRTC-86BC40?style=flat-square&logo=webrtc&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)

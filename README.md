@@ -8,7 +8,7 @@ Also wrote a book of MDD - [Metrics Driven Development for Micro Service](http:/
 
 ## ⚡ Personal Projects
 ### Cookbook and tutorial
-1. [Metrics Driven Development](https://github.com/walterfan/mdd): Samples for my "Metrics Driven Development" book
+1. [Metrics Driven Development](https://github.com/walterfan/mdd): Samples for my book "Metrics Driven Development" 度量驱动开发
 1. [The Tao of Agile](https://github.com/walterfan/the-tao-of-agile): 敏捷之道
 1. [WebRTC Primer](https://github.com/walterfan/webrtc_primer): WebRTC sampels and tutorial
 1. [WebRTC Notes](https://github.com/walterfan/webrtc_note): WebRTC notes

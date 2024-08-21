@@ -25,6 +25,7 @@ Also wrote a book of MDD - [Metrics Driven Development for Micro Service](http:/
 1. [Encoding Helper](https://github.com/walterfan/encoding_helper): A Java Swing App as an Encoding conversion and random generation tool
 1. [gtest2html](https://github.com/walterfan/gtest2html): A Python Script to covert google test xml report to markdown or html
 1. [WebRTC Stats Tool](https://github.com/walterfan/webrtc_stats): A Web App to parse WebRTC internals dump file of Chrome
+1. [Video Codec Analyzer](https://github.com/walterfan/video_codec_analyzer): H264 Codec analyzer
 1. [Tomato Timer](https://github.com/walterfan/tomato-timer): A simple Tomato Timer by Python
 1. [OCR Web App](https://github.com/walterfan/webocr): A Web App to recognize the text on uploaded picture based on libtesseract
    
@@ -45,14 +46,14 @@ These are some of the technologies and tools that I work with:
 
 ![Cpp](https://img.shields.io/badge/-Cpp-007ACC?style=flat-square&logo=cpp)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0089D6?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-339933?style=flat-square&logo=JavaScript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-DD0031?style=flat-square&logo=linux)
+![Telephony](https://img.shields.io/badge/-Telephony-black?style=flat-square&logo=Telephony)
 ![WebRTC](https://img.shields.io/badge/-WebRTC-86BC40?style=flat-square&logo=webrtc&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-DD0031?style=flat-square&logo=flask)
 ![Cassandra](https://img.shields.io/badge/-Cassandra-black?style=flat-square&logo=cassandra)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0089D6?style=flat-square&logo=python&logoColor=white)
 ![GStreamer](https://img.shields.io/badge/-GStreamer-black?style=flat-square&logo=gstreamer)

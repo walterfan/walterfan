@@ -7,14 +7,16 @@ I'm writing something on [blog posts](https://www.fanyamin.com/) and [简书](ht
 Also wrote a book of MDD - [Metrics Driven Development for Micro Service](http://www.cmpbook.com/products/detail?id=46463). 
 
 ## ⚡ Personal Projects
-### Cookbook and tutorial
+### Cookbook, tutorial and Cheat sheet
 1. [Metrics Driven Development](https://github.com/walterfan/mdd): Samples for my book "Metrics Driven Development" 度量驱动开发
 1. [The Tao of Agile](https://github.com/walterfan/the-tao-of-agile): 敏捷之道
 1. [WebRTC Primer](https://github.com/walterfan/webrtc_primer): WebRTC sampels and tutorial
 1. [WebRTC Notes](https://github.com/walterfan/webrtc_note): WebRTC notes
 1. [DevOps cookbook](https://github.com/walterfan/devops-cookbook): DevOps cookbook
 1. [GStreamer cookbook](https://github.com/walterfan/gstreamer-cookbook): GStreamer cookbook
-
+1. [Beautiful Pattern](https://github.com/walterfan/beautiful_pattern): Beautiful Patterns
+1. [Unforgettable Cheat Sheets](https://github.com/walterfan/unforgettable_cheat_sheet): some cheat cheets should be remembered
+   
 ### Tools   
 1. [Web Diagram](https://github.com/walterfan/webdiagram): A Web App for generating UML, Mindmap and flow chart based on flask, graphviz and plantuml
 1. [GStreamer pipeline verify tool](https://github.com/walterfan/gst-pipeline-verifier): GStreamer Pipeline Verify Tool
@@ -30,7 +32,6 @@ Also wrote a book of MDD - [Metrics Driven Development for Micro Service](http:/
 1. [WebRTC Reference](https://github.com/walterfan/webrtc_refer): WebRTC related reference
 1. [WebRTC Video Chat](https://github.com/walterfan/webrtc_video_chat): An example of video chat based on WebRTC
 1. [WebRTC Remote Sharing](https://github.com/walterfan/webrtc_remote_sharing): An example of remote sharing
-1. [Beautiful Pattern](https://github.com/walterfan/beautiful_pattern): Beautiful Patterns 
 1. [Beautiful Python](https://github.com/walterfan/beautiful_python): Beautiful Python code snippets 
 1. [Beautiful C++](https://github.com/walterfan/beautiful_cpp): Beautiful C++ code snippets 
 1. [Code Kata](https://github.com/walterfan/code-kata):  kata(功夫套路) of code - cpp, java, python, js, etc.

@@ -10,11 +10,12 @@ Also wrote a book of MDD - [Metrics Driven Development for Micro Service](http:/
 ### Cookbook, tutorial and Cheat sheet
 1. [Metrics Driven Development](https://github.com/walterfan/mdd): Samples for my book "Metrics Driven Development" 度量驱动开发
 1. [The Tao of Agile](https://github.com/walterfan/the-tao-of-agile): 敏捷之道
-1. [WebRTC Primer](https://github.com/walterfan/webrtc_primer): WebRTC sampels and tutorial
-1. [DevOps cookbook](https://github.com/walterfan/devops-cookbook): DevOps cookbook
-1. [GStreamer cookbook](https://github.com/walterfan/gstreamer-cookbook): GStreamer cookbook
-1. [Beautiful Pattern](https://github.com/walterfan/beautiful_pattern): Beautiful Patterns
-1. [Unforgettable Cheat Sheets](https://github.com/walterfan/unforgettable_cheat_sheet): some cheat cheets should be remembered
+1. [The Security Handbook ](https://github.com/walterfan/security-handbook): 安全指北
+1. [WebRTC Primer](https://github.com/walterfan/webrtc_primer): WebRTC 笔记与示例
+1. [DevOps cookbook](https://github.com/walterfan/devops-cookbook): DevOps 笔记
+1. [GStreamer cookbook](https://github.com/walterfan/gstreamer-cookbook): GStreamer 笔记 
+1. [Beautiful Pattern](https://github.com/walterfan/beautiful_pattern): Beautiful Patterns 模式之美
+1. [Unforgettable Cheat Sheets](https://github.com/walterfan/unforgettable_cheat_sheet): 容易忘记的速查表
    
 ### Tools   
 1. [Web Diagram](https://github.com/walterfan/webdiagram): A Web App for generating UML, Mindmap and flow chart based on flask, graphviz and plantuml

@@ -27,7 +27,9 @@ Also wrote a book of MDD - [Metrics Driven Development for Micro Service](http:/
 1. [Video Codec Analyzer](https://github.com/walterfan/video_codec_analyzer): H264 Codec analyzer
 1. [Tomato Timer](https://github.com/walterfan/tomato-timer): A simple Tomato Timer by Python
 1. [OCR Web App](https://github.com/walterfan/webocr): A Web App to recognize the text on uploaded picture based on libtesseract
-   
+1. [lazy-mock-server](https://github.com/walterfan/lazy-mock-server): A tiny mock server based on flask in Python
+1. [lazy-log-server](https://github.com/walterfan/lazy-log-server): A tiny log server based on boost in C++
+
 ### Examples and Snippets
 1. [WebRTC Snippets](https://github.com/walterfan/webrtc_snippets): WebRTC related snippets
 1. [WebRTC Video Chat](https://github.com/walterfan/webrtc_video_chat): An example of video chat based on WebRTC

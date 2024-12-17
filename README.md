@@ -34,10 +34,11 @@ Also wrote a book of MDD - [Metrics Driven Development for Micro Service](http:/
 1. [WebRTC Snippets](https://github.com/walterfan/webrtc_snippets): WebRTC related snippets
 1. [WebRTC Video Chat](https://github.com/walterfan/webrtc_video_chat): An example of video chat based on WebRTC
 1. [WebRTC Remote Sharing](https://github.com/walterfan/webrtc_remote_sharing): An example of remote sharing
-1. [Beautiful Python](https://github.com/walterfan/beautiful_python): Beautiful Python code snippets 
-1. [Beautiful C++](https://github.com/walterfan/beautiful_cpp): Beautiful C++ code snippets 
 1. [Code Kata](https://github.com/walterfan/code-kata):  kata(功夫套路) of code - cpp, java, python, js, etc.
-
+   - [kata of c++](https://github.com/walterfan/kata-cpp):  C++ code snippets 
+   - [kata of java](https://github.com/walterfan/kata-java): Java code snippets 
+   - [kata of python](https://github.com/walterfan/kata-python): Python code snippets 
+   - [kata of web including js, ts, html and css](https://github.com/walterfan/kata-web): Web(TS, JS, HTML, CSS) code snippets 
    
 * [more...](https://github.com/walterfan?tab=repositories)
 

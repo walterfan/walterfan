@@ -29,7 +29,9 @@ Also wrote a book of MDD - [Metrics Driven Development for Micro Service](http:/
 1. [OCR Web App](https://github.com/walterfan/webocr): A Web App to recognize the text on uploaded picture based on libtesseract in Python
 1. [lazy-mock-server](https://github.com/walterfan/lazy-mock-server): A tiny mock server based on flask in Python
 1. [lazy-log-server](https://github.com/walterfan/lazy-log-server): A tiny log server based on boost in C++
+1. [video_to_text](https://github.com/walterfan/video_to_text): A tiny tool to extract audio from video file, and translate the text as a subtitile file
 
+   
 ### Examples and Snippets
 1. [WebRTC Snippets](https://github.com/walterfan/webrtc_snippets): WebRTC related snippets
 1. [WebRTC Video Chat](https://github.com/walterfan/webrtc_video_chat): An example of video chat based on WebRTC
@@ -37,7 +39,8 @@ Also wrote a book of MDD - [Metrics Driven Development for Micro Service](http:/
 1. [Code Kata](https://github.com/walterfan/code-kata):  kata(功夫套路) of code - cpp, java, python, js, etc.
    - [kata of c++](https://github.com/walterfan/kata-cpp):  C++ code snippets 
    - [kata of java](https://github.com/walterfan/kata-java): Java code snippets 
-   - [kata of python](https://github.com/walterfan/kata-python): Python code snippets 
+   - [kata of python](https://github.com/walterfan/kata-python): Python code snippets
+   - [kata of golan](https://github.com/walterfan/kata-go): Golang code snippets 
    - [kata of web including js, ts, html and css](https://github.com/walterfan/kata-web): Web(TS, JS, HTML, CSS) code snippets 
    
 * [more...](https://github.com/walterfan?tab=repositories)

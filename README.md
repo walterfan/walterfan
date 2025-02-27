@@ -40,7 +40,7 @@ Also wrote a book of MDD - [Metrics Driven Development for Micro Service](http:/
    - [kata of c++](https://github.com/walterfan/kata-cpp):  C++ code snippets 
    - [kata of java](https://github.com/walterfan/kata-java): Java code snippets 
    - [kata of python](https://github.com/walterfan/kata-python): Python code snippets
-   - [kata of golan](https://github.com/walterfan/kata-go): Golang code snippets 
+   - [kata of go](https://github.com/walterfan/kata-go): Golang code snippets 
    - [kata of web including js, ts, html and css](https://github.com/walterfan/kata-web): Web(TS, JS, HTML, CSS) code snippets 
    
 * [more...](https://github.com/walterfan?tab=repositories)

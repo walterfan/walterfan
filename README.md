@@ -25,7 +25,7 @@ Also wrote a book of MDD - [Metrics Driven Development for Micro Service](http:/
 1. [gtest2html](https://github.com/walterfan/gtest2html): A tiny Script to covert google test xml report to markdown or html in Python
 1. [WebRTC Stats Tool](https://github.com/walterfan/webrtc_stats): A Web App to parse WebRTC internals dump file of Chrome in Python
 1. [Video Codec Analyzer](https://github.com/walterfan/video_codec_analyzer): H264 Codec analyzer in C++
-1. [Tomato Timer](https://github.com/walterfan/tomato-timer): A simple Tomato Timer in Python
+1. [Daily Sticky Note](https://github.com/walterfan/daily-sticky-note): A simple sticky note with tomato timer in Python 
 1. [OCR Web App](https://github.com/walterfan/webocr): A Web App to recognize the text on uploaded picture based on libtesseract in Python
 1. [lazy-mock-server](https://github.com/walterfan/lazy-mock-server): A tiny mock server based on flask in Python
 1. [lazy-log-server](https://github.com/walterfan/lazy-log-server): A tiny log server based on boost in C++

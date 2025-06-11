@@ -20,8 +20,9 @@ Also wrote a book of MDD - [Metrics Driven Development for Micro Service](http:/
 ### Tools   
 1. [Web Diagram](https://github.com/walterfan/webdiagram): A Web App for generating UML, Mindmap and flow chart based on flask, graphviz and plantuml in Python
 1. [GStreamer Pipeline Verifier](https://github.com/walterfan/gst-pipeline-verifier): GStreamer Pipeline Verify Tool in C++
-1. [Regex Helper](https://github.com/walterfan/regex_helper): A Java Swing App as a Regular Expression helper in Java
-1. [Encoding Helper](https://github.com/walterfan/encoding_helper): A Java Swing App as an Encoding conversion and random generation tool in Java
+1. [Regex Helper](https://github.com/walterfan/regex_helper): A Java Swing App as a Regular Expression helper 
+1. [Encoding Helper](https://github.com/walterfan/encoding_helper): A Java Swing App as an Encoding conversion and random generation tool 
+1. [SQL Helper](https://github.com/walterfan/sql-helper): A Java Swing App as a SQL execution and record tool 
 1. [gtest2html](https://github.com/walterfan/gtest2html): A tiny Script to covert google test xml report to markdown or html in Python
 1. [WebRTC Stats Tool](https://github.com/walterfan/webrtc_stats): A Web App to parse WebRTC internals dump file of Chrome in Python
 1. [Video Codec Analyzer](https://github.com/walterfan/video_codec_analyzer): H264 Codec analyzer in C++

@@ -17,7 +17,9 @@ Also wrote a book of MDD - [Metrics Driven Development for Micro Service](http:/
 1. [Beautiful Pattern](https://github.com/walterfan/beautiful_pattern): Beautiful Patterns 模式之美
 1. [Unforgettable Cheat Sheets](https://github.com/walterfan/unforgettable_cheat_sheet): 容易忘记的速查表
    
-### Tools   
+### Tools
+1. [AI Dress Recommender](https://github.com/walterfan/ai-dress-recommender): A Dress Recommender by Weather AI and LLM
+1. [WebRTC Transcriber](https://github.com/walterfan/webrtc-transcriber): A webrtc-transcriber that record what you said and convert speech to text
 1. [Web Diagram](https://github.com/walterfan/webdiagram): A Web App for generating UML, Mindmap and flow chart based on flask, graphviz and plantuml in Python
 1. [GStreamer Pipeline Verifier](https://github.com/walterfan/gst-pipeline-verifier): GStreamer Pipeline Verify Tool in C++
 1. [Regex Helper](https://github.com/walterfan/regex_helper): A Java Swing App as a Regular Expression helper 
@@ -30,7 +32,7 @@ Also wrote a book of MDD - [Metrics Driven Development for Micro Service](http:/
 1. [OCR Web App](https://github.com/walterfan/webocr): A Web App to recognize the text on uploaded picture based on libtesseract in Python
 1. [lazy-mock-server](https://github.com/walterfan/lazy-mock-server): A tiny mock server based on flask in Python
 1. [lazy-log-server](https://github.com/walterfan/lazy-log-server): A tiny log server based on boost in C++
-1. [video_to_text](https://github.com/walterfan/video_to_text): A tiny tool to extract audio from video file, and translate the text as a subtitile file
+1. [video_to_text](https://github.com/walterfan/video_to_text): A tiny tool to extract text from video/image file, and translate the text as a subtitile file
 
    
 ### Examples and Snippets

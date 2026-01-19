@@ -18,7 +18,7 @@ Also wrote a book of MDD - [Metrics Driven Development for Micro Service](http:/
 1. [Unforgettable Cheat Sheets](https://github.com/walterfan/unforgettable_cheat_sheet): 容易忘记的速查表
    
 ### Tools
-1. [Lazy Form Instructor](https://github.com/walterfan/lazy-form-instructor): Smart Form Fill and Execution by AI worflow 基于 AI 的智能表单填写和处理库
+1. [Lazy Form Instructor](https://github.com/walterfan/lazy-form-instructor): Smart Form Fill and Execution by AI worflow in java 用 Java 写的基于 AI 的智能表单填写和处理库
 1. [AI Dress Recommender](https://github.com/walterfan/ai-dress-recommender): A Dress Recommender by Weather AI and LLM
 1. [WebRTC Transcriber](https://github.com/walterfan/webrtc-transcriber): A webrtc-transcriber that record what you said and convert speech to text
 1. [Web Diagram](https://github.com/walterfan/webdiagram): A Web App for generating UML, Mindmap and flow chart based on flask, graphviz and plantuml in Python

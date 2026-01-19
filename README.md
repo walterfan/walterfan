@@ -16,6 +16,7 @@ Also wrote a book of MDD - [Metrics Driven Development for Micro Service](http:/
 1. [GStreamer cookbook](https://github.com/walterfan/gstreamer-cookbook): GStreamer 笔记 
 1. [Beautiful Pattern](https://github.com/walterfan/beautiful_pattern): Beautiful Patterns 模式之美
 1. [Unforgettable Cheat Sheets](https://github.com/walterfan/unforgettable_cheat_sheet): 容易忘记的速查表
+1. [AI Primer](https://github.com/walterfan/lazy-ai-primer): 人工智能入门教程
    
 ### Tools
 1. [Lazy Form Instructor](https://github.com/walterfan/lazy-form-instructor): Smart Form Fill and Execution by AI worflow in java 用 Java 写的基于 AI 的智能表单填写和处理库

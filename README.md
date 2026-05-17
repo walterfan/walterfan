@@ -7,16 +7,23 @@ I'm writing something on [blog posts](https://www.fanyamin.com/) and [简书](ht
 Also wrote a book of MDD - [Metrics Driven Development for Micro Service](http://www.cmpbook.com/products/detail?id=46463). 
 
 ## ⚡ Personal Projects
-### Cookbook, tutorial and Cheat sheet
+### book, tutorial and Cheat sheet
 1. [Metrics Driven Development](https://github.com/walterfan/mdd): Samples for my book "Metrics Driven Development" 度量驱动开发
+   - online version: https://walterfan.github.io/mdd
+1. [WebRTC Primer](https://github.com/walterfan/webrtc_primer): WebRTC 学习笔记
+   - online version: https://walterfan.github.io/webrtc_note/
+1. [Software Engineering in AI era](https://github.com/walterfan/walter-ai-engineering-book): AI 时代的软件工程
+   - online version: https://walterfan.github.io/walter-ai-engineering-book
+1. [Harnessing AI: The Craft of Shaping Agents](https://github.com/walterfan/walter-ai-harness-book): 驾驭工程：给 AI 套上缰绳
+   - https://github.com/walterfan/walter-ai-harness-book
 1. [The Tao of Agile](https://github.com/walterfan/the-tao-of-agile): 敏捷之道
 1. [The Security Handbook ](https://github.com/walterfan/security-handbook): 安全指北
-1. [WebRTC Primer](https://github.com/walterfan/webrtc_primer): WebRTC 笔记与示例
+
 1. [DevOps cookbook](https://github.com/walterfan/devops-cookbook): DevOps 笔记
 1. [GStreamer cookbook](https://github.com/walterfan/gstreamer-cookbook): GStreamer 笔记 
 1. [Beautiful Pattern](https://github.com/walterfan/beautiful_pattern): Beautiful Patterns 模式之美
 1. [Unforgettable Cheat Sheets](https://github.com/walterfan/unforgettable_cheat_sheet): 容易忘记的速查表
-1. [AI Primer](https://github.com/walterfan/lazy-ai-primer): 人工智能入门教程
+
    
 ### Tools
 1. [Lazy Form Instructor](https://github.com/walterfan/lazy-form-instructor): Smart Form Fill and Execution by AI worflow in java 用 Java 写的基于 AI 的智能表单填写和处理库

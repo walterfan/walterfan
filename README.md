@@ -7,14 +7,10 @@ I'm writing something on [blog posts](https://www.fanyamin.com/) , and write som
 
 ## ⚡ Personal Projects
 ### book, tutorial and Cheat sheet
-1. [Metrics Driven Development](https://github.com/walterfan/mdd): Samples for my book "Metrics Driven Development" 度量驱动开发
-   - online version: https://walterfan.github.io/mdd
-1. [WebRTC Primer](https://github.com/walterfan/webrtc_primer): WebRTC 学习笔记
-   - online version: https://walterfan.github.io/webrtc_note/
-1. [Software Engineering in AI era](https://github.com/walterfan/walter-ai-engineering-book): AI 时代的软件工程
-   - online version: https://walterfan.github.io/walter-ai-engineering-book
-1. [Harnessing AI: The Craft of Shaping Agents](https://github.com/walterfan/walter-ai-harness-book): 驾驭工程：给 AI 套上缰绳
-   - https://github.com/walterfan/walter-ai-harness-book
+1. [Metrics Driven Development](https://github.com/walterfan/mdd): Samples for my book "Metrics Driven Development" 度量驱动开发 👉 [online version](https://walterfan.github.io/mdd)
+1. [WebRTC Primer](https://github.com/walterfan/webrtc_primer): WebRTC 学习笔记 👉 [online version](https://walterfan.github.io/webrtc_note)
+1. [Software Engineering in AI era](https://github.com/walterfan/walter-ai-engineering-book): AI 时代的软件工程 👉 [online version](https://walterfan.github.io/walter-ai-engineering-book)
+1. [Harnessing AI: The Craft of Shaping Agents](https://github.com/walterfan/walter-ai-harness-book): 驾驭工程：给 AI 套上缰绳 👉 [online version](https://walterfan.github.io/walter-ai-harness-book/)
 1. [The Tao of Agile](https://github.com/walterfan/the-tao-of-agile): 敏捷之道
 1. [The Security Handbook ](https://github.com/walterfan/security-handbook): 安全指北
 
@@ -25,6 +21,7 @@ I'm writing something on [blog posts](https://www.fanyamin.com/) , and write som
 
    
 ### Tools
+1. [Lazy Todo App](https://github.com/walterfan/lazy-todo-app): An Desktop App for Todo List, Sticky Notes, Pomodoro, Toolbox and Virtual Agent on Mac/Linux/Windows
 1. [Lazy Form Instructor](https://github.com/walterfan/lazy-form-instructor): Smart Form Fill and Execution by AI worflow in java 用 Java 写的基于 AI 的智能表单填写和处理库
 1. [AI Dress Recommender](https://github.com/walterfan/ai-dress-recommender): A Dress Recommender by Weather AI and LLM
 1. [WebRTC Transcriber](https://github.com/walterfan/webrtc-transcriber): A webrtc-transcriber that record what you said and convert speech to text

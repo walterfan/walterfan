@@ -11,6 +11,7 @@ I'm writing something on [blog posts](https://www.fanyamin.com/) , and write som
 1. [WebRTC Primer](https://github.com/walterfan/webrtc_primer): WebRTC 学习笔记 👉 [online version](https://walterfan.github.io/webrtc_note)
 1. [Software Engineering in AI era](https://github.com/walterfan/walter-ai-engineering-book): AI 时代的软件工程 👉 [online version](https://walterfan.github.io/walter-ai-engineering-book)
 1. [Harnessing AI: The Craft of Shaping Agents](https://github.com/walterfan/walter-ai-harness-book): 驾驭工程：给 AI 套上缰绳 👉 [online version](https://walterfan.github.io/walter-ai-harness-book/)
+1. [Build Deskto Client by Tauri](https://github.com/walterfan/walter-rust-tauri-book): 新一代客户端架构：用 Tauri + Rust 构建桌面应用 👉 [online version](https://walterfan.github.io/walter-rust-tauri-book)
 1. [The Tao of Agile](https://github.com/walterfan/the-tao-of-agile): 敏捷之道
 1. [The Security Handbook ](https://github.com/walterfan/security-handbook): 安全指北
 

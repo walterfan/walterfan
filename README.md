@@ -1,73 +1,103 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Walter Fan</h1>
 
-I'm Walter Fan , a full stack engineer who loves writing code and poem, enjoys researching MDD, design patterns and real-time communication.
+<p align="center">
+  <strong>Full-stack engineer · Real-time communication practitioner · AI engineering explorer</strong>
+</p>
 
-I'm writing something on [blog posts](https://www.fanyamin.com/) , and write some code and minutes here.
+<p align="center">
+  <a href="https://www.fanyamin.com/"><img alt="Website" src="https://img.shields.io/badge/Website-fanyamin.com-0A66C2?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" /></a>
+  <a href="https://github.com/walterfan"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-walterfan-181717?style=for-the-badge&amp;logo=github" /></a>
+  <a href="https://github.com/walterfan?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Repositories-Explore-2EA44F?style=for-the-badge&amp;logo=github" /></a>
+</p>
 
+I build software across backend services, web applications, desktop tools, media systems, and AI-assisted engineering workflows. I also write about engineering practice, Metrics Driven Development, WebRTC, design patterns, security and the craft of building reliable systems.
 
-## ⚡ Personal Projects
-### book, tutorial and Cheat sheet
-1. [Metrics Driven Development](https://github.com/walterfan/mdd): Samples for my book "Metrics Driven Development" 度量驱动开发 👉 [online version](https://walterfan.github.io/mdd)
-1. [WebRTC Primer](https://github.com/walterfan/webrtc_primer): WebRTC 学习笔记 👉 [online version](https://walterfan.github.io/webrtc_note)
-1. [Software Engineering in AI era](https://github.com/walterfan/walter-ai-engineering-book): AI 时代的软件工程 👉 [online version](https://walterfan.github.io/walter-ai-engineering-book)
-1. [Harnessing AI: The Craft of Shaping Agents](https://github.com/walterfan/walter-ai-harness-book): 驾驭工程：给 AI 套上缰绳 👉 [online version](https://walterfan.github.io/walter-ai-harness-book/)
-1. [Build Deskto Client by Tauri](https://github.com/walterfan/walter-rust-tauri-book): 新一代客户端架构：用 Tauri + Rust 构建桌面应用 👉 [online version](https://walterfan.github.io/walter-rust-tauri-book)
-1. [The Tao of Agile](https://github.com/walterfan/the-tao-of-agile): 敏捷之道
-1. [The Security Handbook ](https://github.com/walterfan/security-handbook): 安全指北
+## Engineering Focus
 
-1. [DevOps cookbook](https://github.com/walterfan/devops-cookbook): DevOps 笔记
-1. [GStreamer cookbook](https://github.com/walterfan/gstreamer-cookbook): GStreamer 笔记 
-1. [Beautiful Pattern](https://github.com/walterfan/beautiful_pattern): Beautiful Patterns 模式之美
-1. [Unforgettable Cheat Sheets](https://github.com/walterfan/unforgettable_cheat_sheet): 容易忘记的速查表
+```mermaid
+mindmap
+  root((Walter Fan))
+    Real-time Communication
+      WebRTC
+      Media Pipeline
+      Telephony
+    Engineering Practice
+      Metrics Driven Development
+      Agile
+      Design Patterns
+    AI Engineering
+      Agent Harness
+      Developer Tools
+      Workflow Automation
+    Full-stack Systems
+      Backend Services
+      Desktop Apps
+      DevOps
+```
 
-   
-### Tools
-1. [Lazy Todo App](https://github.com/walterfan/lazy-todo-app): An Desktop App for Todo List, Sticky Notes, Pomodoro, Toolbox and Virtual Agent on Mac/Linux/Windows
-1. [Lazy Form Instructor](https://github.com/walterfan/lazy-form-instructor): Smart Form Fill and Execution by AI worflow in java 用 Java 写的基于 AI 的智能表单填写和处理库
-1. [AI Dress Recommender](https://github.com/walterfan/ai-dress-recommender): A Dress Recommender by Weather AI and LLM
-1. [WebRTC Transcriber](https://github.com/walterfan/webrtc-transcriber): A webrtc-transcriber that record what you said and convert speech to text
-1. [Web Diagram](https://github.com/walterfan/webdiagram): A Web App for generating UML, Mindmap and flow chart based on flask, graphviz and plantuml in Python
-1. [GStreamer Pipeline Verifier](https://github.com/walterfan/gst-pipeline-verifier): GStreamer Pipeline Verify Tool in C++
-1. [Regex Helper](https://github.com/walterfan/regex_helper): A Java Swing App as a Regular Expression helper 
-1. [Encoding Helper](https://github.com/walterfan/encoding_helper): A Java Swing App as an Encoding conversion and random generation tool 
-1. [SQL Helper](https://github.com/walterfan/sql-helper): A Java Swing App as a SQL execution and record tool 
-1. [gtest2html](https://github.com/walterfan/gtest2html): A tiny Script to covert google test xml report to markdown or html in Python
-1. [WebRTC Stats Tool](https://github.com/walterfan/webrtc_stats): A Web App to parse WebRTC internals dump file of Chrome in Python
-1. [Video Codec Analyzer](https://github.com/walterfan/video_codec_analyzer): H264 Codec analyzer in C++
-1. [Daily Sticky Note](https://github.com/walterfan/daily-sticky-note): A simple sticky note with tomato timer in Python 
-1. [OCR Web App](https://github.com/walterfan/webocr): A Web App to recognize the text on uploaded picture based on libtesseract in Python
-1. [lazy-mock-server](https://github.com/walterfan/lazy-mock-server): A tiny mock server based on flask in Python
-1. [lazy-log-server](https://github.com/walterfan/lazy-log-server): A tiny log server based on boost in C++
-1. [video_to_text](https://github.com/walterfan/video_to_text): A tiny tool to extract text from video/image file, and translate the text as a subtitile file
+## Featured Writing
 
-   
-### Examples and Snippets
-1. [WebRTC Snippets](https://github.com/walterfan/webrtc_snippets): WebRTC related snippets
-1. [WebRTC Video Chat](https://github.com/walterfan/webrtc_video_chat): An example of video chat based on WebRTC
-1. [WebRTC Remote Sharing](https://github.com/walterfan/webrtc_remote_sharing): An example of remote sharing
-1. [Code Kata](https://github.com/walterfan/code-kata):  kata(功夫套路) of code - cpp, java, python, js, etc.
-   - [kata of c++](https://github.com/walterfan/kata-cpp):  C++ code snippets 
-   - [kata of java](https://github.com/walterfan/kata-java): Java code snippets 
-   - [kata of python](https://github.com/walterfan/kata-python): Python code snippets
-   - [kata of go](https://github.com/walterfan/kata-go): Golang code snippets 
-   - [kata of web including js, ts, html and css](https://github.com/walterfan/kata-web): Web(TS, JS, HTML, CSS) code snippets 
-   
-* [more...](https://github.com/walterfan?tab=repositories)
+| Topic | Repository | Online Version |
+| --- | --- | --- |
+| Metrics Driven Development | [mdd](https://github.com/walterfan/mdd) | [Read online](https://walterfan.github.io/mdd) |
+| WebRTC Primer | [webrtc_primer](https://github.com/walterfan/webrtc_primer) | [Read online](https://walterfan.github.io/webrtc_note) |
+| Software Engineering in AI Era | [walter-ai-engineering-book](https://github.com/walterfan/walter-ai-engineering-book) | [Read online](https://walterfan.github.io/walter-ai-engineering-book) |
+| Harnessing AI: The Craft of Shaping Agents | [walter-ai-harness-book](https://github.com/walterfan/walter-ai-harness-book) | [Read online](https://walterfan.github.io/walter-ai-harness-book/) |
+| Desktop Apps with Tauri + Rust | [walter-rust-tauri-book](https://github.com/walterfan/walter-rust-tauri-book) | [Read online](https://walterfan.github.io/walter-rust-tauri-book) |
+| The Tao of Agile | [the-tao-of-agile](https://github.com/walterfan/the-tao-of-agile) | - |
+| The Security Handbook | [security-handbook](https://github.com/walterfan/security-handbook) | - |
+| DevOps Cookbook | [devops-cookbook](https://github.com/walterfan/devops-cookbook) | - |
+| GStreamer Cookbook | [gstreamer-cookbook](https://github.com/walterfan/gstreamer-cookbook) | - |
 
-## ⚡ Technologies
+## Selected Projects
 
-These are some of the technologies and tools that I work with:
+### Productive Tools
 
-![C++](https://img.shields.io/badge/-Cpp-007ACC?style=flat-square&logo=cpp)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/Python-0089D6?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-339933?style=flat-square&logo=JavaScript&logoColor=white)
-![MicroService](https://img.shields.io/badge/-MicroService-E34F26?style=flat-square&logo=MicroService&logoColor=white)
-![Telephony](https://img.shields.io/badge/-Telephony-black?style=flat-square&logo=Telephony)
-![WebRTC](https://img.shields.io/badge/-WebRTC-86BC40?style=flat-square&logo=webrtc&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-DD0031?style=flat-square&logo=flask)
-![Cassandra](https://img.shields.io/badge/-Cassandra-black?style=flat-square&logo=cassandra)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GStreamer](https://img.shields.io/badge/-GStreamer-black?style=flat-square&logo=gstreamer)
+- [Lazy Todo App](https://github.com/walterfan/lazy-todo-app): desktop app for todo lists, sticky notes, Pomodoro, toolbox, and virtual agents.
+- [Lazy Form Instructor](https://github.com/walterfan/lazy-form-instructor): Java library for AI-assisted smart form filling and execution.
+- [Web Diagram](https://github.com/walterfan/webdiagram): web app for generating UML, mind maps, and flow charts with Flask, Graphviz, and PlantUML.
+- [GStreamer Pipeline Verifier](https://github.com/walterfan/gst-pipeline-verifier): C++ tool for validating GStreamer pipelines.
+- [WebRTC Stats Tool](https://github.com/walterfan/webrtc_stats): parser and analyzer for Chrome WebRTC internals dumps.
+- [Video Codec Analyzer](https://github.com/walterfan/video_codec_analyzer): H.264 codec analysis tool in C++.
+- [gtest2html](https://github.com/walterfan/gtest2html): Python utility that converts GoogleTest XML reports to Markdown or HTML.
+
+### AI and Media Experiments
+
+- [AI Dress Recommender](https://github.com/walterfan/ai-dress-recommender): weather-aware dress recommendation powered by AI and LLMs.
+- [WebRTC Transcriber](https://github.com/walterfan/webrtc-transcriber): WebRTC recorder that converts speech to text.
+- [OCR Web App](https://github.com/walterfan/webocr): image text recognition app based on libtesseract.
+- [video_to_text](https://github.com/walterfan/video_to_text): tool for extracting text from video or image files and generating subtitle translations.
+
+### Examples and Code Katas
+
+- [WebRTC Snippets](https://github.com/walterfan/webrtc_snippets): WebRTC-related snippets and experiments.
+- [WebRTC Video Chat](https://github.com/walterfan/webrtc_video_chat): WebRTC video chat example.
+- [WebRTC Remote Sharing](https://github.com/walterfan/webrtc_remote_sharing): remote sharing example based on WebRTC.
+- [Code Kata](https://github.com/walterfan/code-kata): coding exercises across C++, Java, Python, Go, JavaScript, TypeScript, HTML, and CSS.
+
+Explore more at [github.com/walterfan?tab=repositories](https://github.com/walterfan?tab=repositories).
+
+## Technology Stack
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
+![GStreamer](https://img.shields.io/badge/GStreamer-4A154B?style=flat-square)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/K8S-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+## GitHub Snapshot
+
+<p align="center">
+  <img height="165" alt="Walter's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=walterfan&amp;show_icons=true&amp;theme=default&amp;hide_border=true" />
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walterfan&amp;layout=compact&amp;hide_border=true" />
+</p>

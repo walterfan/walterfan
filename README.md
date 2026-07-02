@@ -51,35 +51,42 @@ mindmap
 
 ## Side Projects
 
+### Recent Work
+
 | Project | Focus | Notes |
 | --- | --- | --- |
 | [markpad](https://github.com/walterfan/markpad) | Local Markdown editor, reader, translator, and diagram renderer | Python/Poetry web tool with a file tree, split Markdown source and HTML preview, eye-friendly themes, Mermaid and PlantUML rendering, and OpenAI-compatible LLM translation. |
 | [lazy-rabbit-skills](https://github.com/walterfan/lazy-rabbit-skills) | Personal collection of reusable AI agent skills | Skill library for documentation, project knowledge bases, diagram rendering, code review, language-specific development, ops helpers, planning, and quality workflows, installable across agents such as Claude, Codex, Cursor, and opencode. |
 | [face-detection-webrtc](https://github.com/walterfan/face-detection-webrtc) | Face detection, landmarks, training, and recognition demo | Computer vision playground using OpenCV Haar detection, MediaPipe Face Mesh, LBPH recognition, FastAPI, Vue/Vite, and browser camera capture via WebRTC `getUserMedia`. |
 
-
 ### Productive Tools
 
-- [Lazy Todo App](https://github.com/walterfan/lazy-todo-app): desktop app for todo lists, sticky notes, Pomodoro, toolbox, and virtual agents.
-- [Lazy Form Instructor](https://github.com/walterfan/lazy-form-instructor): Java library for AI-assisted smart form filling and execution.
-- [GStreamer Pipeline Verifier](https://github.com/walterfan/gst-pipeline-verifier): C++ tool for validating GStreamer pipelines.
-- [WebRTC Stats Tool](https://github.com/walterfan/webrtc_stats): parser and analyzer for Chrome WebRTC internals dumps.
-- [Video Codec Analyzer](https://github.com/walterfan/video_codec_analyzer): H.264 codec analysis tool in C++.
-- [gtest2html](https://github.com/walterfan/gtest2html): Python utility that converts GoogleTest XML reports to Markdown or HTML.
+| Project | Focus | Notes |
+| --- | --- | --- |
+| [Lazy Todo App](https://github.com/walterfan/lazy-todo-app) | Personal productivity desktop app | Todo lists, sticky notes, Pomodoro, toolbox, and virtual agents. |
+| [Lazy Form Instructor](https://github.com/walterfan/lazy-form-instructor) | AI-assisted form automation | Java library for smart form filling and execution. |
+| [GStreamer Pipeline Verifier](https://github.com/walterfan/gst-pipeline-verifier) | Media pipeline validation | C++ tool for validating GStreamer pipelines. |
+| [WebRTC Stats Tool](https://github.com/walterfan/webrtc_stats) | WebRTC diagnostics | Parser and analyzer for Chrome WebRTC internals dumps. |
+| [Video Codec Analyzer](https://github.com/walterfan/video_codec_analyzer) | Codec analysis | H.264 codec analysis tool in C++. |
+| [gtest2html](https://github.com/walterfan/gtest2html) | Test report conversion | Python utility that converts GoogleTest XML reports to Markdown or HTML. |
 
 ### AI and Media Experiments
 
-- [AI Dress Recommender](https://github.com/walterfan/ai-dress-recommender): weather-aware dress recommendation powered by AI and LLMs.
-- [WebRTC Transcriber](https://github.com/walterfan/webrtc-transcriber): WebRTC recorder that converts speech to text.
-- [OCR Web App](https://github.com/walterfan/webocr): image text recognition app based on libtesseract.
-- [video_to_text](https://github.com/walterfan/video_to_text): tool for extracting text from video or image files and generating subtitle translations.
+| Project | Focus | Notes |
+| --- | --- | --- |
+| [AI Dress Recommender](https://github.com/walterfan/ai-dress-recommender) | AI recommendation | Weather-aware dress recommendation powered by AI and LLMs. |
+| [WebRTC Transcriber](https://github.com/walterfan/webrtc-transcriber) | Speech transcription | WebRTC recorder that converts speech to text. |
+| [OCR Web App](https://github.com/walterfan/webocr) | OCR | Image text recognition app based on libtesseract. |
+| [video_to_text](https://github.com/walterfan/video_to_text) | Video text extraction | Tool for extracting text from video or image files and generating subtitle translations. |
 
 ### Examples and Code Katas
 
-- [WebRTC Snippets](https://github.com/walterfan/webrtc_snippets): WebRTC-related snippets and experiments.
-- [WebRTC Video Chat](https://github.com/walterfan/webrtc_video_chat): WebRTC video chat example.
-- [WebRTC Remote Sharing](https://github.com/walterfan/webrtc_remote_sharing): remote sharing example based on WebRTC.
-- [Code Kata](https://github.com/walterfan/code-kata): coding exercises across C++, Java, Python, Go, JavaScript, TypeScript, HTML, and CSS.
+| Project | Focus | Notes |
+| --- | --- | --- |
+| [WebRTC Snippets](https://github.com/walterfan/webrtc_snippets) | WebRTC examples | WebRTC-related snippets and experiments. |
+| [WebRTC Video Chat](https://github.com/walterfan/webrtc_video_chat) | Real-time video | WebRTC video chat example. |
+| [WebRTC Remote Sharing](https://github.com/walterfan/webrtc_remote_sharing) | Remote sharing | Remote sharing example based on WebRTC. |
+| [Code Kata](https://github.com/walterfan/code-kata) | Coding practice | Exercises across C++, Java, Python, Go, JavaScript, TypeScript, HTML, and CSS. |
 
 Explore more at [github.com/walterfan?tab=repositories](https://github.com/walterfan?tab=repositories).
 

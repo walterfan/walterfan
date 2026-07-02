@@ -49,13 +49,19 @@ mindmap
 | DevOps Cookbook | [devops-cookbook](https://github.com/walterfan/devops-cookbook) | - |
 | GStreamer Cookbook | [gstreamer-cookbook](https://github.com/walterfan/gstreamer-cookbook) | - |
 
-## Selected Projects
+## Side Projects
+
+| Project | Focus | Notes |
+| --- | --- | --- |
+| [markpad](https://github.com/walterfan/markpad) | Local Markdown editor, reader, translator, and diagram renderer | Python/Poetry web tool with a file tree, split Markdown source and HTML preview, eye-friendly themes, Mermaid and PlantUML rendering, and OpenAI-compatible LLM translation. |
+| [lazy-rabbit-skills](https://github.com/walterfan/lazy-rabbit-skills) | Personal collection of reusable AI agent skills | Skill library for documentation, project knowledge bases, diagram rendering, code review, language-specific development, ops helpers, planning, and quality workflows, installable across agents such as Claude, Codex, Cursor, and opencode. |
+| [face-detection-webrtc](https://github.com/walterfan/face-detection-webrtc) | Face detection, landmarks, training, and recognition demo | Computer vision playground using OpenCV Haar detection, MediaPipe Face Mesh, LBPH recognition, FastAPI, Vue/Vite, and browser camera capture via WebRTC `getUserMedia`. |
+
 
 ### Productive Tools
 
 - [Lazy Todo App](https://github.com/walterfan/lazy-todo-app): desktop app for todo lists, sticky notes, Pomodoro, toolbox, and virtual agents.
 - [Lazy Form Instructor](https://github.com/walterfan/lazy-form-instructor): Java library for AI-assisted smart form filling and execution.
-- [Web Diagram](https://github.com/walterfan/webdiagram): web app for generating UML, mind maps, and flow charts with Flask, Graphviz, and PlantUML.
 - [GStreamer Pipeline Verifier](https://github.com/walterfan/gst-pipeline-verifier): C++ tool for validating GStreamer pipelines.
 - [WebRTC Stats Tool](https://github.com/walterfan/webrtc_stats): parser and analyzer for Chrome WebRTC internals dumps.
 - [Video Codec Analyzer](https://github.com/walterfan/video_codec_analyzer): H.264 codec analysis tool in C++.
@@ -88,6 +94,9 @@ Explore more at [github.com/walterfan?tab=repositories](https://github.com/walte
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
 ![GStreamer](https://img.shields.io/badge/GStreamer-4A154B?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)

@@ -56,15 +56,22 @@ mindmap
 | Project | Focus | Notes |
 | --- | --- | --- |
 | [markpad](https://github.com/walterfan/markpad) | Local Markdown editor, reader, translator, and diagram renderer | Python/Poetry web tool with a file tree, split Markdown source and HTML preview, eye-friendly themes, Mermaid and PlantUML rendering, and OpenAI-compatible LLM translation. |
-| [lazy-rabbit-skills](https://github.com/walterfan/lazy-rabbit-skills) | Personal collection of reusable AI agent skills | Skill library for documentation, project knowledge bases, diagram rendering, code review, language-specific development, ops helpers, planning, and quality workflows, installable across agents such as Claude, Codex, Cursor, and opencode. |
+| [cpp-100-mistakes](https://github.com/walterfan/cpp-100-mistakes) | C++ pitfalls and lessons learned | A practical book-style collection of common C++ mistakes with an online edition at [walterfan.github.io/cpp-100-mistakes](https://walterfan.github.io/cpp-100-mistakes). |
 | [face-detection-webrtc](https://github.com/walterfan/face-detection-webrtc) | Face detection, landmarks, training, and recognition demo | Computer vision playground using OpenCV Haar detection, MediaPipe Face Mesh, LBPH recognition, FastAPI, Vue/Vite, and browser camera capture via WebRTC `getUserMedia`. |
+
+### Lazy Rabbit Studio
+
+| Project | Focus | Notes |
+| --- | --- | --- |
+| [lazy-rabbit-skills](https://github.com/walterfan/lazy-rabbit-skills) | Personal collection of reusable AI agent skills | Skill library for documentation, project knowledge bases, diagram rendering, code review, language-specific development, ops helpers, planning, and quality workflows, installable across agents such as Claude, Codex, Cursor, and opencode. |
+| [lazy-rabbit-mmuc](https://github.com/walterfan/lazy-rabbit-mmuc) | Multi-model utility console | Lazy Rabbit tooling for working across models and utility workflows. |
+| [Lazy Todo App](https://github.com/walterfan/lazy-todo-app) | Personal productivity desktop app | Todo lists, sticky notes, Pomodoro, toolbox, and virtual agents. |
+| [Lazy Form Instructor](https://github.com/walterfan/lazy-form-instructor) | AI-assisted form automation | Java library for smart form filling and execution. |
 
 ### Productive Tools
 
 | Project | Focus | Notes |
 | --- | --- | --- |
-| [Lazy Todo App](https://github.com/walterfan/lazy-todo-app) | Personal productivity desktop app | Todo lists, sticky notes, Pomodoro, toolbox, and virtual agents. |
-| [Lazy Form Instructor](https://github.com/walterfan/lazy-form-instructor) | AI-assisted form automation | Java library for smart form filling and execution. |
 | [GStreamer Pipeline Verifier](https://github.com/walterfan/gst-pipeline-verifier) | Media pipeline validation | C++ tool for validating GStreamer pipelines. |
 | [WebRTC Stats Tool](https://github.com/walterfan/webrtc_stats) | WebRTC diagnostics | Parser and analyzer for Chrome WebRTC internals dumps. |
 | [Video Codec Analyzer](https://github.com/walterfan/video_codec_analyzer) | Codec analysis | H.264 codec analysis tool in C++. |

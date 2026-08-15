@@ -43,6 +43,7 @@ mindmap
 | WebRTC Primer | [webrtc_primer](https://github.com/walterfan/webrtc_primer) | [Read online](https://walterfan.github.io/webrtc_note) |
 | Software Engineering in AI Era | [walter-ai-engineering-book](https://github.com/walterfan/walter-ai-engineering-book) | [Read online](https://walterfan.github.io/walter-ai-engineering-book) |
 | Harnessing AI: The Craft of Shaping Agents | [walter-ai-harness-book](https://github.com/walterfan/walter-ai-harness-book) | [Read online](https://walterfan.github.io/walter-ai-harness-book/) |
+| AI Agent Loop Tutorial | [agent-loop-tutorial](https://github.com/walterfan/agent-loop-tutorial) | - |
 | Desktop Apps with Tauri + Rust | [walter-rust-tauri-book](https://github.com/walterfan/walter-rust-tauri-book) | [Read online](https://walterfan.github.io/walter-rust-tauri-book) |
 | The Tao of Agile | [the-tao-of-agile](https://github.com/walterfan/the-tao-of-agile) | - |
 | The Security Handbook | [security-handbook](https://github.com/walterfan/security-handbook) | - |
@@ -55,6 +56,9 @@ mindmap
 
 | Project | Focus | Notes |
 | --- | --- | --- |
+| [lazy-code-kg](https://github.com/walterfan/lazy-code-kg) | Code knowledge graph | Go CLI (`codekg`) that indexes a repo into a local SQLite knowledge graph with tree-sitter, embeddings, hybrid search, and an MCP server for AI-agent workflows. |
+| [gouml](https://github.com/walterfan/gouml) | UML from Go source | Go CLI that uses `go/types` to generate PlantUML or Mermaid class diagrams, including implicit interface implementations, embeddings, and optional PNG/SVG rendering. |
+| [agent-loop-tutorial](https://github.com/walterfan/agent-loop-tutorial) | AI Agent Loop tutorial | Hands-on Quarto + Jupyter book that builds an Agent from a 20-line think-act-observe loop to production, with runnable notebooks for tools, safety, memory, planning, and real LLM tasks. |
 | [markpad](https://github.com/walterfan/markpad) | Local Markdown editor, reader, translator, and diagram renderer | Python/Poetry web tool with a file tree, split Markdown source and HTML preview, eye-friendly themes, Mermaid and PlantUML rendering, and OpenAI-compatible LLM translation. |
 | [cpp-100-mistakes](https://github.com/walterfan/cpp-100-mistakes) | C++ pitfalls and lessons learned | A practical book-style collection of common C++ mistakes with an online edition at [walterfan.github.io/cpp-100-mistakes](https://walterfan.github.io/cpp-100-mistakes). |
 | [face-detection-webrtc](https://github.com/walterfan/face-detection-webrtc) | Face detection, landmarks, training, and recognition demo | Computer vision playground using OpenCV Haar detection, MediaPipe Face Mesh, LBPH recognition, FastAPI, Vue/Vite, and browser camera capture via WebRTC `getUserMedia`. |
@@ -63,8 +67,9 @@ mindmap
 
 | Project | Focus | Notes |
 | --- | --- | --- |
+| [lazy-code-kg](https://github.com/walterfan/lazy-code-kg) | Code knowledge graph for AI agents | Indexes source into entities and relations, stores them in SQLite with sqlite-vec, and serves hybrid search plus MCP tools. |
 | [lazy-rabbit-skills](https://github.com/walterfan/lazy-rabbit-skills) | Personal collection of reusable AI agent skills | Skill library for documentation, project knowledge bases, diagram rendering, code review, language-specific development, ops helpers, planning, and quality workflows, installable across agents such as Claude, Codex, Cursor, and opencode. |
-| [lazy-rabbit-mmuc](https://github.com/walterfan/lazy-rabbit-mmuc) | Multi-model utility console | Lazy Rabbit tooling for working across models and utility workflows. |
+| [lazy-rabbit-mmuc](https://github.com/walterfan/lazy-rabbit-mmuc) | WebRTC multimedia multi-user chat | Multimedia Multiple User Chat built with Pion and TypeScript. |
 | [Lazy Todo App](https://github.com/walterfan/lazy-todo-app) | Personal productivity desktop app | Todo lists, sticky notes, Pomodoro, toolbox, and virtual agents. |
 | [Lazy Form Instructor](https://github.com/walterfan/lazy-form-instructor) | AI-assisted form automation | Java library for smart form filling and execution. |
 
@@ -72,6 +77,7 @@ mindmap
 
 | Project | Focus | Notes |
 | --- | --- | --- |
+| [Daily Sticky Note](https://github.com/walterfan/daily-sticky-note) | Daily sticky notes with Pomodoro | Python sticky-note app for daily work, with tomato timer, YAML templates, and optional LLM assistance. |
 | [GStreamer Pipeline Verifier](https://github.com/walterfan/gst-pipeline-verifier) | Media pipeline validation | C++ tool for validating GStreamer pipelines. |
 | [WebRTC Stats Tool](https://github.com/walterfan/webrtc_stats) | WebRTC diagnostics | Parser and analyzer for Chrome WebRTC internals dumps. |
 | [Video Codec Analyzer](https://github.com/walterfan/video_codec_analyzer) | Codec analysis | H.264 codec analysis tool in C++. |

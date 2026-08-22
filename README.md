@@ -41,12 +41,12 @@ mindmap
 | --- | --- | --- |
 | Metrics Driven Development | [mdd](https://github.com/walterfan/mdd) | [Read online](https://walterfan.github.io/mdd) |
 | WebRTC Primer | [webrtc_primer](https://github.com/walterfan/webrtc_primer) | [Read online](https://walterfan.github.io/webrtc_note) |
-| Software Engineering in AI Era | [walter-ai-engineering-book](https://github.com/walterfan/walter-ai-engineering-book) | [Read online](https://walterfan.github.io/walter-ai-engineering-book) |
-| Harnessing AI: The Craft of Shaping Agents | [walter-ai-harness-book](https://github.com/walterfan/walter-ai-harness-book) | [Read online](https://walterfan.github.io/walter-ai-harness-book/) |
+| Software Engineering in AI Era | [ai-engineering-primer](https://github.com/walterfan/ai-engineering-primer) | [Read online](https://walterfan.github.io/ai-engineering-primer) |
+| Harnessing AI: The Craft of Shaping Agents | [ai-harness-primer](https://github.com/walterfan/ai-harness-primer) | [Read online](https://walterfan.github.io/ai-harness-primer/) |
 | AI Agent Loop Tutorial | [agent-loop-tutorial](https://github.com/walterfan/agent-loop-tutorial) | - |
-| Desktop Apps with Tauri + Rust | [walter-rust-tauri-book](https://github.com/walterfan/walter-rust-tauri-book) | [Read online](https://walterfan.github.io/walter-rust-tauri-book) |
+| Desktop Apps with Tauri + Rust | [rust-tauri-primer](https://github.com/walterfan/rust-tauri-primer) | [Read online](https://walterfan.github.io/rust-tauri-primer) |
 | The Tao of Agile | [the-tao-of-agile](https://github.com/walterfan/the-tao-of-agile) | - |
-| The Security Handbook | [security-handbook](https://github.com/walterfan/security-handbook) | - |
+| The Security Master | [security-master](https://github.com/walterfan/security-master) | - |
 | DevOps Cookbook | [devops-cookbook](https://github.com/walterfan/devops-cookbook) | - |
 | GStreamer Cookbook | [gstreamer-cookbook](https://github.com/walterfan/gstreamer-cookbook) | - |
 

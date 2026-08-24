@@ -57,7 +57,7 @@ mindmap
 | Project | Focus | Notes |
 | --- | --- | --- |
 | [gitman](https://github.com/walterfan/gitman) | Local git expert | Python CLI that turns natural language into a reviewed git command plan, drafts a commit message from the real diff, and executes only after confirmation, with an optional loopback Web UI. |
-| [smart-form-instructor](https://github.com/walterfan/smart-form-instructor) | LLM-driven smart form engine | Java library, inspired by Python Instructor, that turns one sentence into a schema-validated form with confidence scores, retries, and an AI DAG workflow for review and routing via Spring AI. |
+| [smart-form-instructor](https://github.com/walterfan/smart-form-instructor) | Smart forms and AI workflow | Java library with two engines: schema-first form filling from natural language, and an AI DAG workflow for approval, routing, and human escalation on low-confidence decisions. |
 | [lazy-code-kg](https://github.com/walterfan/lazy-code-kg) | Code knowledge graph | Go CLI (`codekg`) that indexes a repo into a local SQLite knowledge graph with tree-sitter, embeddings, hybrid search, and an MCP server for AI-agent workflows. |
 | [gouml](https://github.com/walterfan/gouml) | UML from Go source | Go CLI that uses `go/types` to generate PlantUML or Mermaid class diagrams, including implicit interface implementations, embeddings, and optional PNG/SVG rendering. |
 | [agent-loop-tutorial](https://github.com/walterfan/agent-loop-tutorial) | AI Agent Loop tutorial | Hands-on Quarto + Jupyter book that builds an Agent from a 20-line think-act-observe loop to production, with runnable notebooks for tools, safety, memory, planning, and real LLM tasks. |
@@ -73,7 +73,7 @@ mindmap
 | [lazy-rabbit-skills](https://github.com/walterfan/lazy-rabbit-skills) | Personal collection of reusable AI agent skills | Skill library for documentation, project knowledge bases, diagram rendering, code review, language-specific development, ops helpers, planning, and quality workflows, installable across agents such as Claude, Codex, Cursor, and opencode. |
 | [lazy-rabbit-mmuc](https://github.com/walterfan/lazy-rabbit-mmuc) | WebRTC multimedia multi-user chat | Multimedia Multiple User Chat built with Pion and TypeScript. |
 | [Lazy Todo App](https://github.com/walterfan/lazy-todo-app) | Personal productivity desktop app | Todo lists, sticky notes, Pomodoro, toolbox, and virtual agents. |
-| [Smart Form Instructor](https://github.com/walterfan/smart-form-instructor) | LLM-driven form filling and review | Schema-first Java library that extracts structured form data from natural language, then runs an AI workflow for validation and approval. |
+| [Smart Form Instructor](https://github.com/walterfan/smart-form-instructor) | Smart form filling plus AI workflow | Extracts structured form data from natural language, then runs a DAG workflow with LLM decision nodes for review, routing, and audit. |
 | [Lazy Form Instructor](https://github.com/walterfan/lazy-form-instructor) | AI-assisted form automation | Java library for smart form filling and execution. |
 
 ### Productive Tools

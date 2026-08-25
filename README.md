@@ -74,7 +74,6 @@ mindmap
 | [lazy-rabbit-mmuc](https://github.com/walterfan/lazy-rabbit-mmuc) | WebRTC multimedia multi-user chat | Multimedia Multiple User Chat built with Pion and TypeScript. |
 | [Lazy Todo App](https://github.com/walterfan/lazy-todo-app) | Personal productivity desktop app | Todo lists, sticky notes, Pomodoro, toolbox, and virtual agents. |
 | [Smart Form Instructor](https://github.com/walterfan/smart-form-instructor) | Smart form filling plus AI workflow | Extracts structured form data from natural language, then runs a DAG workflow with LLM decision nodes for review, routing, and audit. |
-| [Lazy Form Instructor](https://github.com/walterfan/lazy-form-instructor) | AI-assisted form automation | Java library for smart form filling and execution. |
 
 ### Productive Tools
 

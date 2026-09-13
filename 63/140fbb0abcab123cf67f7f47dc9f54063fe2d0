@@ -1,0 +1,20 @@
+README.md
+  s_985bad8b564598::t_ae40944c73370c 62,84
+  s_985bad8b564598::t_44ac3ef1a7bd48 52,85,96
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "63140fbb0abcab123cf67f7f47dc9f54063fe2d0",
+  "prompts": {},
+  "sessions": {
+    "s_985bad8b564598": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "056ed087-8d0c-4d4d-9070-b9ae0e801d10",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "Walter Fan <walter.fan@zoom.us>"
+    }
+  }
+}

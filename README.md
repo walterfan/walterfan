@@ -49,6 +49,7 @@ mindmap
 | The Security Master | [security-master](https://github.com/walterfan/security-master) | - |
 | DevOps Cookbook | [devops-cookbook](https://github.com/walterfan/devops-cookbook) | - |
 | GStreamer Cookbook | [gstreamer-cookbook](https://github.com/walterfan/gstreamer-cookbook) | - |
+| C++ 100 Mistakes | [cpp-100-mistakes](https://github.com/walterfan/cpp-100-mistakes) | A practical book-style collection of common C++ mistakes with an online edition at [walterfan.github.io/cpp-100-mistakes](https://walterfan.github.io/cpp-100-mistakes). |
 
 ## Side Projects
 
@@ -57,13 +58,8 @@ mindmap
 | Project | Focus | Notes |
 | --- | --- | --- |
 | [gitman](https://github.com/walterfan/gitman) | Local git expert | Python CLI that turns natural language into a reviewed git command plan, drafts a commit message from the real diff, and executes only after confirmation, with an optional loopback Web UI. |
-| [smart-form-instructor](https://github.com/walterfan/smart-form-instructor) | Smart forms and AI workflow | Java library with two engines: schema-first form filling from natural language, and an AI DAG workflow for approval, routing, and human escalation on low-confidence decisions. |
-| [lazy-code-kg](https://github.com/walterfan/lazy-code-kg) | Code knowledge graph | Go CLI (`codekg`) that indexes a repo into a local SQLite knowledge graph with tree-sitter, embeddings, hybrid search, and an MCP server for AI-agent workflows. |
-| [gouml](https://github.com/walterfan/gouml) | UML from Go source | Go CLI that uses `go/types` to generate PlantUML or Mermaid class diagrams, including implicit interface implementations, embeddings, and optional PNG/SVG rendering. |
-| [agent-loop-tutorial](https://github.com/walterfan/agent-loop-tutorial) | AI Agent Loop tutorial | Hands-on Quarto + Jupyter book that builds an Agent from a 20-line think-act-observe loop to production, with runnable notebooks for tools, safety, memory, planning, and real LLM tasks. |
 | [markpad](https://github.com/walterfan/markpad) | Local Markdown editor, reader, translator, and diagram renderer | Python/Poetry web tool with a file tree, split Markdown source and HTML preview, eye-friendly themes, Mermaid and PlantUML rendering, and OpenAI-compatible LLM translation. |
-| [cpp-100-mistakes](https://github.com/walterfan/cpp-100-mistakes) | C++ pitfalls and lessons learned | A practical book-style collection of common C++ mistakes with an online edition at [walterfan.github.io/cpp-100-mistakes](https://walterfan.github.io/cpp-100-mistakes). |
-| [face-detection-webrtc](https://github.com/walterfan/face-detection-webrtc) | Face detection, landmarks, training, and recognition demo | Computer vision playground using OpenCV Haar detection, MediaPipe Face Mesh, LBPH recognition, FastAPI, Vue/Vite, and browser camera capture via WebRTC `getUserMedia`. |
+| [webrtc-to-freeswitch](https://github.com/walterfan/webrtc-to-freeswitch) | Browser WebRTC calling with FreeSWITCH | Vue 3 + TypeScript client and FastAPI service for secure SIP-over-WebSocket audio calls through an existing FreeSWITCH deployment. |
 
 ### Lazy Rabbit Studio
 
@@ -85,6 +81,8 @@ mindmap
 | [GStreamer Pipeline Verifier](https://github.com/walterfan/gst-pipeline-verifier) | Media pipeline validation | C++ tool for validating GStreamer pipelines. |
 | [WebRTC Stats Tool](https://github.com/walterfan/webrtc_stats) | WebRTC diagnostics | Parser and analyzer for Chrome WebRTC internals dumps. |
 | [Video Codec Analyzer](https://github.com/walterfan/video_codec_analyzer) | Codec analysis | H.264 codec analysis tool in C++. |
+| [Audio Codec Analyzer](https://github.com/walterfan/audio_codec_analyzer) | Audio capture pipeline analysis | C++20 CLI that measures AEC, noise suppression, AGC, and Opus encoding across an end-to-end conferencing audio chain. |
+| [gouml](https://github.com/walterfan/gouml) | UML from Go source | Go CLI that uses `go/types` to generate PlantUML or Mermaid class diagrams, including implicit interface implementations, embeddings, and optional PNG/SVG rendering. |
 | [gtest2html](https://github.com/walterfan/gtest2html) | Test report conversion | Python utility that converts GoogleTest XML reports to Markdown or HTML. |
 
 ### AI and Media Experiments
@@ -95,6 +93,7 @@ mindmap
 | [WebRTC Transcriber](https://github.com/walterfan/webrtc-transcriber) | Speech transcription | WebRTC recorder that converts speech to text. |
 | [OCR Web App](https://github.com/walterfan/webocr) | OCR | Image text recognition app based on libtesseract. |
 | [video_to_text](https://github.com/walterfan/video_to_text) | Video text extraction | Tool for extracting text from video or image files and generating subtitle translations. |
+| [face-detection-webrtc](https://github.com/walterfan/face-detection-webrtc) | Face detection, landmarks, training, and recognition demo | Computer vision playground using OpenCV Haar detection, MediaPipe Face Mesh, LBPH recognition, FastAPI, Vue/Vite, and browser camera capture via WebRTC `getUserMedia`. |
 
 ### Examples and Code Katas
 

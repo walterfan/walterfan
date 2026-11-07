@@ -1,0 +1,31 @@
+README.zh-CN.md
+  s_e304fa16aea6c3::t_a4136480eb22dc 1-139
+README.md
+  s_3d29629d3f6989::t_3cdb0427b623d4 63-64
+  s_e304fa16aea6c3::t_d227824a5ea591 3-4,15,40
+  s_e304fa16aea6c3::t_1cd8960e360eed 50
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "743fc30bcd9d20a5e2a6b751f2ec8c849126eab5",
+  "prompts": {},
+  "sessions": {
+    "s_3d29629d3f6989": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ac5e-8f4f-75d3-8977-f4408226a5d4",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Walter Fan <walter.fan@zoom.us>"
+    },
+    "s_e304fa16aea6c3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1b3d0-e491-7a62-8db9-8f09f8257147",
+        "model": "gpt-6-luna"
+      },
+      "human_author": "Walter Fan <walter.fan@zoom.us>"
+    }
+  }
+}

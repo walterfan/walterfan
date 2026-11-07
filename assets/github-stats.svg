@@ -1,7 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="500" height="165" viewBox="0 0 500 165" role="img" aria-labelledby="title desc">
 <title id="title">GitHub public stats for walterfan</title>
-<desc id="desc">This card will be populated by the GitHub Actions workflow.</desc>
+<desc id="desc">Followers, public repositories, and stars across non-fork public repositories.</desc>
 <rect x="1" y="1" width="498" height="163" rx="8" fill="#fff" stroke="#d0d7de"/>
 <text x="24" y="34" font-family="Arial,sans-serif" font-size="18" font-weight="600" fill="#1f2328">GitHub Public Stats</text>
-<text x="24" y="82" font-family="Arial,sans-serif" font-size="14" fill="#656d76">Stats will appear after the first workflow run.</text>
+<g font-family="Arial,sans-serif" text-anchor="middle">
+  <text x="100" y="78" font-size="13" fill="#656d76">Followers</text>
+  <text x="100" y="119" font-size="30" font-weight="600" fill="#0969da">70</text>
+  <text x="250" y="78" font-size="13" fill="#656d76">Public repositories</text>
+  <text x="250" y="119" font-size="30" font-weight="600" fill="#0969da">143</text>
+  <text x="400" y="78" font-size="13" fill="#656d76">Stars</text>
+  <text x="400" y="119" font-size="30" font-weight="600" fill="#0969da">89</text>
+</g>
 </svg>

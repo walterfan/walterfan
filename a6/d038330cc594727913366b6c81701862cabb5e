@@ -1,0 +1,32 @@
+README.md
+  s_e304fa16aea6c3::t_66cedf3353607a 137-138
+assets/top-languages.svg
+  s_e304fa16aea6c3::t_cd0c6be56217c3 1-7
+.github/workflows/update-github-stats.yml
+  s_e304fa16aea6c3::t_66cedf3353607a 1-40
+scripts/update_github_stats.py
+  s_e304fa16aea6c3::t_7661852a21b2b7 96-105,173-177
+  s_e304fa16aea6c3::t_cd0c6be56217c3 58,87-88
+  s_e304fa16aea6c3::t_7802505fdb98bc 41-47,50,165-166
+  s_e304fa16aea6c3::t_66cedf3353607a 1-40,48-49,51-57,59-86,89-95,106-164,167-172,178-193
+README.zh-CN.md
+  s_e304fa16aea6c3::t_66cedf3353607a 137-138
+assets/github-stats.svg
+  s_e304fa16aea6c3::t_cd0c6be56217c3 1-7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "a6d038330cc594727913366b6c81701862cabb5e",
+  "prompts": {},
+  "sessions": {
+    "s_e304fa16aea6c3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1b3d0-e491-7a62-8db9-8f09f8257147",
+        "model": "gpt-6-luna"
+      },
+      "human_author": "Walter Fan <walter.fan@zoom.us>"
+    }
+  }
+}

@@ -134,6 +134,6 @@ mindmap
 ## GitHub 数据
 
 <p align="center">
-  <img height="165" alt="Walter 的 GitHub 统计" src="https://github-readme-stats-sigma-five.vercel.app/api?username=walterfan&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" alt="常用语言" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=walterfan&layout=compact&hide_border=true" />
+  <img height="165" alt="Walter 的公开 GitHub 数据" src="assets/github-stats.svg" />
+  <img height="165" alt="按仓库数量统计的常用语言" src="assets/top-languages.svg" />
 </p>

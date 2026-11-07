@@ -134,6 +134,6 @@ Explore more at [github.com/walterfan?tab=repositories](https://github.com/walte
 ## GitHub Snapshot
 
 <p align="center">
-  <img height="165" alt="Walter's GitHub stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=walterfan&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" alt="Top languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=walterfan&layout=compact&hide_border=true" />
+  <img height="165" alt="Walter's public GitHub stats" src="assets/github-stats.svg" />
+  <img height="165" alt="Top languages by repository count" src="assets/top-languages.svg" />
 </p>

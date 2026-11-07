@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Walter Fan</h1>
 
+<p align="center"><a href="README.md">English</a> | <a href="README.zh-CN.md">简体中文</a></p>
+
 <p align="center">
   <strong>Full-stack engineer · Real-time communication practitioner · AI engineering explorer</strong>
 </p>
@@ -10,7 +12,7 @@
   <a href="https://github.com/walterfan?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Repositories-Explore-2EA44F?style=for-the-badge&amp;logo=github" /></a>
 </p>
 
-I build software across backend services, web applications, desktop tools, media systems, and AI-assisted engineering workflows. I also write about engineering practice, Metrics Driven Development, WebRTC, design patterns, security and the craft of building reliable systems.
+I build software across backend services, realtime communication, web applications, desktop tools, and AI-assisted engineering workflows. I also write notes and tools about engineering practice, Metrics Driven Development, realtime communication, design patterns, security and the craft of building reliable systems.
 
 ## Engineering Focus
 
@@ -35,7 +37,7 @@ mindmap
       DevOps
 ```
 
-## Featured Writing
+## Books and Notes
 
 | Topic | Repository | Online Version |
 | --- | --- | --- |
@@ -45,6 +47,7 @@ mindmap
 | Harnessing AI: The Craft of Shaping Agents | [ai-harness-primer](https://github.com/walterfan/ai-harness-primer) | [Read online](https://walterfan.github.io/ai-harness-primer/) |
 | AI Agent Loop Tutorial | [agent-loop-tutorial](https://github.com/walterfan/agent-loop-tutorial) | - |
 | Desktop Apps with Tauri + Rust | [rust-tauri-primer](https://github.com/walterfan/rust-tauri-primer) | [Read online](https://walterfan.github.io/rust-tauri-primer) |
+| OpenResty Primer | [openresty-primer](https://github.com/walterfan/openresty-primer) | - |
 | The Tao of Agile | [the-tao-of-agile](https://github.com/walterfan/the-tao-of-agile) | - |
 | The Security Master | [security-master](https://github.com/walterfan/security-master) | - |
 | DevOps Cookbook | [devops-cookbook](https://github.com/walterfan/devops-cookbook) | - |
@@ -57,6 +60,8 @@ mindmap
 
 | Project | Focus | Notes |
 | --- | --- | --- |
+| [ajb-demo](https://github.com/walterfan/ajb-demo) | Adaptive jitter buffer experiments | C++20 demo comparing small fixed, large fixed, and adaptive buffers under the same network trace, with Web GUI and TUI controls, audio playback, and WAV/CSV exports to explore latency and playback continuity. |
+| [lua-playground](https://github.com/walterfan/lua-playground) | Interactive Lua learning | OpenResty web playground for running Lua snippets in a restricted LuaJIT environment, with captured output, snippet management, and examples covering language fundamentals and common mistakes. |
 | [gitman](https://github.com/walterfan/gitman) | Local git expert | Python CLI that turns natural language into a reviewed git command plan, drafts a commit message from the real diff, and executes only after confirmation, with an optional loopback Web UI. |
 | [markpad](https://github.com/walterfan/markpad) | Local Markdown editor, reader, translator, and diagram renderer | Python/Poetry web tool with a file tree, split Markdown source and HTML preview, eye-friendly themes, Mermaid and PlantUML rendering, and OpenAI-compatible LLM translation. |
 | [webrtc-to-freeswitch](https://github.com/walterfan/webrtc-to-freeswitch) | Browser WebRTC calling with FreeSWITCH | Vue 3 + TypeScript client and FastAPI service for secure SIP-over-WebSocket audio calls through an existing FreeSWITCH deployment. |

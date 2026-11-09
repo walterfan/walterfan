@@ -5,7 +5,7 @@
 <text x="24" y="34" font-family="Arial,sans-serif" font-size="18" font-weight="600" fill="#1f2328">GitHub Public Stats</text>
 <g font-family="Arial,sans-serif" text-anchor="middle">
   <text x="100" y="78" font-size="13" fill="#656d76">Followers</text>
-  <text x="100" y="119" font-size="30" font-weight="600" fill="#0969da">70</text>
+  <text x="100" y="119" font-size="30" font-weight="600" fill="#0969da">69</text>
   <text x="250" y="78" font-size="13" fill="#656d76">Public repositories</text>
   <text x="250" y="119" font-size="30" font-weight="600" fill="#0969da">143</text>
   <text x="400" y="78" font-size="13" fill="#656d76">Stars</text>

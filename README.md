@@ -45,6 +45,7 @@ mindmap
 | WebRTC Primer | [webrtc_primer](https://github.com/walterfan/webrtc_primer) | [Read online](https://walterfan.github.io/webrtc_note) |
 | Software Engineering in AI Era | [ai-engineering-primer](https://github.com/walterfan/ai-engineering-primer) | [Read online](https://walterfan.github.io/ai-engineering-primer) |
 | Harnessing AI: The Craft of Shaping Agents | [ai-harness-primer](https://github.com/walterfan/ai-harness-primer) | [Read online](https://walterfan.github.io/ai-harness-primer/) |
+| Knowledge base building by AI | [ai-kb-primer](https://github.com/walterfan/ai-kb-primer) | [Read online](https://walterfan.github.io/ai-kb-primer/) |
 | AI Agent Loop Tutorial | [agent-loop-tutorial](https://github.com/walterfan/agent-loop-tutorial) | - |
 | Desktop Apps with Tauri + Rust | [rust-tauri-primer](https://github.com/walterfan/rust-tauri-primer) | [Read online](https://walterfan.github.io/rust-tauri-primer) |
 | OpenResty Primer | [openresty-primer](https://github.com/walterfan/openresty-primer) | - |
